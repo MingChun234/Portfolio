@@ -37,8 +37,10 @@
 
 
 
-下圖為此系統ER圖製作:
+下圖為此系統ER圖:
 ![image](https://github.com/user-attachments/assets/211fa2b2-5fe9-4b04-9ec6-f14ecb1c5565)
+下圖為此系統Relational Model:
+![image](https://github.com/user-attachments/assets/e8cfbcb7-10db-43c6-82ca-b35c1f959282)
 
 
     
