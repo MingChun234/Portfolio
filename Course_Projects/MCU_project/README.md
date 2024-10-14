@@ -7,6 +7,14 @@
       <b>4.材料分類：</b>使用LDR感測器（光敏電阻）區分垃圾是塑膠還是紙類。<br>
       <b>5.自動化分類處理：</b>最終由伺服馬達控制垃圾桶門的開啟，將垃圾自動分類投入相應的容器中​。<br>
     </p>
-<h4>下圖是智能分類垃圾桶實體圖</h4>
-![image](https://github.com/user-attachments/assets/f146adaa-23f9-4c2e-9610-f02470bab7e2)
+<h4>下圖是智能分類垃圾桶實體圖:</h4>
+
+![image](https://github.com/user-attachments/assets/ef983d72-21ec-4eba-946a-3d617511df5f)
+<h4>下圖是智能分類垃圾桶接線圖:</h4>
+    
+![image](https://github.com/user-attachments/assets/686e5c8c-752e-457b-ab4e-4cf11a3c89f1)
+<h4>下圖是智能分類垃圾桶實作流程圖:</h4>
+
+
+
 
