@@ -34,14 +34,11 @@
     -購物車表(ex:123_cart):用戶首次登入成功後，為該用戶創建獨立的購物車，儲存購票資料。<br>
 </p>
 
-
-
-
 下圖為此系統ER圖:
 ![image](https://github.com/user-attachments/assets/211fa2b2-5fe9-4b04-9ec6-f14ecb1c5565)
 下圖為此系統Relational Model圖:
 ![image](https://github.com/user-attachments/assets/e8cfbcb7-10db-43c6-82ca-b35c1f959282)
-
-
+<h4>🥲心得:在處理in(php).php和account(php).php的過程中，我遇到了許多問題。最困難的是在處理字串驗證時，無法通過測試。當時我反覆尋求 Copilot 的幫助來優化程式碼，但還是沒能解決問題。後來，詢問了身邊的朋友，才發現問題主要出在 account(php).php 註冊頁面的判別式過於混亂，導致後續in(php).php登入頁面也出現錯誤，最後我將帳密表的帳號設為主鍵然後將正則表達式那行程式碼註解掉就沒有這個問題了。
+此外，我還學習了如何用 PHP 自動新增與刪除資料表，這使我在專案中進一步掌握了 PHP 與資料庫的連接技術。這次專題，我學到了許多關於 PHP 的應用，尤其是資料庫端與網頁端的整合。🥲</h4>
     
 
