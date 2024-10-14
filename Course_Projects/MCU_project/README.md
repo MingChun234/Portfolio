@@ -8,4 +8,5 @@
       <b>5.自動化分類處理：</b>最終由伺服馬達控制垃圾桶門的開啟，將垃圾自動分類投入相應的容器中​。<br>
     </p>
 <h4>下圖是智能分類垃圾桶實體圖</h4>
+![image](https://github.com/user-attachments/assets/f146adaa-23f9-4c2e-9610-f02470bab7e2)
 
