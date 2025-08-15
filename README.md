@@ -4,5 +4,5 @@
 
 [前往 Course_Projects](https://github.com/MingChun234/Portfolio/tree/main/Course_Projects)
 
-[前往 Competition_Entries](https://github.com/MingChun234/Portfolio/tree/main/Competition_Entries)
+[前往 Competition_Entries](https://github.com/MingChun234/Portfolio/tree/main/Competition)
 
